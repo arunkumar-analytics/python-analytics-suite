@@ -1,6 +1,6 @@
 # Python Analytics Suite
 
-## 📊 Overview
+## Overview
 A command-line data analysis toolkit with 6 useful utilities for everyday data tasks. Built to demonstrate Python fundamentals for data analyst roles.
 
 ## 🛠️ Features
@@ -14,7 +14,7 @@ A command-line data analysis toolkit with 6 useful utilities for everyday data t
 | `FS` | Fibonacci series | Sequence generation |
 | `TS` | Top spender tracker | Expense analysis |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.6 or higher
